@@ -87,6 +87,7 @@ namespace MyShop2.WebUI.Controllers
 
 				productToEdit.Category = product.Category;
 				productToEdit.Description = product.Description;
+				productToEdit.Price = product.Price;
 				productToEdit.Image = product.Image;
 				productToEdit.Name = product.Name;
 
